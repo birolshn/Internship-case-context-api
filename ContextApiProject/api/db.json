@@ -1,0 +1,29 @@
+{
+  "tasks": [
+    {
+      "id": "5a91",
+      "title": "Proje Tamamlama",
+      "taskDesc": "Verilen son proje salıya kadar tamamlanacak."
+    },
+    {
+      "id": "2558",
+      "title": "Çöp Atma",
+      "taskDesc": "Çöpler günde iki defa atılacak."
+    },
+    {
+      "id": "56d1",
+      "title": "Kitap Okuma",
+      "taskDesc": "Günde bir saat kitap okunacak."
+    },
+    {
+      "id": "64e6",
+      "title": "İngilizce Çalışma",
+      "taskDesc": "Günde bir saat ingilizce çalışılacak."
+    },
+    {
+      "id": "ef5c",
+      "title": "Çamaşır Yıkama",
+      "taskDesc": "Haftada iki defa çamaşır yıkanacak."
+    }
+  ]
+}
